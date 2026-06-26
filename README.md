@@ -2,7 +2,7 @@
 A responsive Shopping Cart Web Application built using React.js and Redux Toolkit. The application allows users to browse products, add items to the cart, update quantities, and remove products while maintaining a clean and responsive user interface.
 
 ## Features
--Display product catalog
+- Display product catalog
 -Add products to cart
 -Remove products from cart
 -Increase or decrease product quantity
