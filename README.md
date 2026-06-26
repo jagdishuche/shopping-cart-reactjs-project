@@ -3,29 +3,29 @@ A responsive Shopping Cart Web Application built using React.js and Redux Toolki
 
 ## Features
 - Display product catalog
--Add products to cart
--Remove products from cart
--Increase or decrease product quantity
--Global state management using Redux Toolkit
--Client-side routing with React Router DOM
--Responsive user interface
--Component-based architecture
+- Add products to cart
+- Remove products from cart
+- Increase or decrease product quantity
+- Global state management using Redux Toolkit
+- Client-side routing with React Router DOM
+- Responsive user interface
+- Component-based architecture
 
 ## Tech Stack
--Frontend
--React.js
--JavaScript (ES6+)
--HTML5
--CSS3
--State Management
--Redux Toolkit
--Routing
--React Router DOM
--Build Tool
--Vite
--Version Control
--Git
--GitHub
+- Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- State Management
+- Redux Toolkit
+- Routing
+- React Router DOM
+- Build Tool
+- Vite
+- Version Control
+- Git
+- GitHub
 
 ## Screenshot
 <img width="1878" height="893" alt="Screenshot 2026-06-26 170051" src="https://github.com/user-attachments/assets/f4548019-4e6a-4ac2-8a7f-2d8ce74b9a8e" />
