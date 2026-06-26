@@ -12,18 +12,18 @@ A responsive Shopping Cart Web Application built using React.js and Redux Toolki
 - Component-based architecture
 
 ## Tech Stack
-- Frontend
+### Frontend
 - React.js
 - JavaScript (ES6+)
 - HTML5
-- CSS3
-- State Management
+- Tailwind CSS
+### State Management
 - Redux Toolkit
-- Routing
+### Routing
 - React Router DOM
-- Build Tool
+### Build Tool
 - Vite
-- Version Control
+### Version Control
 - Git
 - GitHub
 
